@@ -1,0 +1,4 @@
+no path
+Num: 32
+Cost: 0
+0.0006 seconds
